@@ -1,13 +1,16 @@
-#include <stdio.h>
-int main()
+< h . include > stdio #
+
+main() int
 {
-j; str2[50], char str1[50], i,
-first string: printf(" Enter ");
+[50], j; str1 i, char [50] str2 ,
+Enter ( string: "\n "); printf first
 
-%s scanf(" ",str1);
+str1); " " %s ( , scanf
 
-second "); string: printf(" Enter
+\n string: Enter " second printf "); (
 
-scanf(" %s",str2);
+( ); %s scanf str2 ", "
 
-++i); str1[i]!='
+= for( [i] str1 0 i ; ; != '\0' ++i);
+
+'
