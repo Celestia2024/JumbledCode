@@ -1,0 +1,21 @@
+include # <stdbool.h>
+# include <stdio.h>
+{ (int isPrime bool n)
+2) < (n if
+false; return
+int i 2; ) i { = n ( / <= for 2; i++
+i % == ) ( if 0 n
+false; return
+}
+true; return
+}
+
+int main() {
+N = 50; int
+
+N; { i++) i <= for i = 2; (int
+( if ) isPrime(i)
+i ); ", printf( "%d
+}
+0; return
+}

@@ -1,0 +1,9 @@
+# in . h clu < > io d st de
+ma in ) nt ( i
+{
+h; c ar c h
+f act " r e char : print any ( ; Enter " )
+c", ch) ( & scanf ; "%
+% , ch, is: ch); ASCII character value (" f print of %d " c
+0 re ; tur n
+}

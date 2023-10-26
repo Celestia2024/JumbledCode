@@ -1,0 +1,18 @@
+> stdio.h < #include
+{ int main()
+153; int n =
+= temp n; int
+0; p int =
+> n ( { 0 ) while
+% 10; rem = int n
+p + rem ( p * * rem ); = rem
+10; = n n /
+}
+temp == ( ) if { p
+" Yes. No. ( ) It " Armstrong ; printf is
+} { else
+Armstrong is ) not an No. ( No." It ; printf "
+}
+return 0;
+}
+

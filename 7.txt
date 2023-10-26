@@ -1,0 +1,34 @@
+include # < > stdio.h
+int ) int isPrime ( N
+{
+N if ) <= ( 1
+{
+return 0;
+}
+++i N/2; = i i <= int ) ( for 2;
+{
+( == N if % 0 i )
+{
+0; return
+}
+}
+1; return
+}
+int main()
+{
+num; int
+
+a ); printf( " Enter " number:
+&num "%d", ); scanf(
+isPrime(num) if ( )
+{
+is printf ( a "%d Number Prime
+num ", );
+}
+else
+{
+printf Number a Prime ( is not "%d
+; ) num ",
+}
+return 0;
+}

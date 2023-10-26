@@ -1,0 +1,17 @@
+> # stdio.h include <
+conio.h < include > #
+math.h include < # >
+void main()
+{
+b; float a, y, x,
+clrscr ();
+enter x= printf(" ");
+&x); scanf(“ %f”,
+”); y= printf(“ enter
+”, %f scanf(“ &y);
+= x-y ) ( x+y a ); / (
+x+y x-y ( * b ); ) ( =
+“, a); (x-y) %f / printf(“ = (x+y)
+* %f (x+y) (x-y)= “, b); printf(“
+getch();
+}

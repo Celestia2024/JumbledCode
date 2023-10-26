@@ -1,0 +1,15 @@
+<stdio.h> #include
+#include <conio.h>
+main() void
+{
+month, day, int year;
+clrscr();
+days: your printf(" please enter ");
+%d &day); scanf(“ ”,
+day 365; year = /
+365; day % day =
+/ day = month 30;
+day day = 30; %
+%d %d %d month, day); year, month ”, day year printf(“
+getch();
+}

@@ -1,0 +1,21 @@
+include <stdio.h> #
+<conio.h> include #
+int c;
+int x, y;
+add(); int
+main() void
+{
+clrscr();
+x 3; =
+= y 5;
+add();
+getch();
+}
+
+add() int
+{
+c + = y x ;
+%d ", c); printf("
+
+return 0;
+}

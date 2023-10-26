@@ -1,0 +1,22 @@
+. < h> # std include io
+
+a, int b) int lcm { (int
+0 % ) = = b if (a
+return a;
+else
+return a ; , + b) lcm ( a
+}
+
+{ ( ) int main
+, num2; int num 1
+
+; : print two f " ("Enter numbers )
+% (" ", d scanf d & ; num2 num1, & % )
+
+(num1 , n ? num2) um1); : (num1 ( int num2) result num2, = lcm lcm >
+
+d is: of % "LCM % f( print % d d and
+" ); , num2 result , , num1
+
+0; return
+}

@@ -1,0 +1,13 @@
+< stdbool.h include # >
+# > < include stdio.h
+int year { ) ( bool checkYear
+400 == ( ) return % year ( || 0
+% ) ( ( 0 year != && 100
+) % 0 4 ); == ) ( year
+}
+{ main() int
+int = 2000; year
+); "Leap ? ( Year" : checkYear(year) printf Year" a Leap "Not
+0; return
+}
+

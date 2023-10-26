@@ -1,0 +1,14 @@
+< #include stdio.h>
+
+#define chr_no 256
+
+int { main()
+char str[100] ;
+max = ch_fre[ chr_no] int {0} , = 0;
+
+
+string: Input the printf(" ");
+str gets( );
+
+i for { str[i]; = 0; ( ) int i++
+'

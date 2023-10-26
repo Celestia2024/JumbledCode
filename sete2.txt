@@ -1,0 +1,22 @@
+. in <stdio clude h> #
+
+(int int num) { countDigits
+= { 0 if (num = )
+0; return
+}
+
+countDigits / return 1 (num + 10);
+}
+
+int ) { main (
+number; int
+
+printf (" ); Enter : a number "
+number); ", d scanf("% &
+
+countDigits int digitCount ; ( number = )
+
+in (" % printf n", is digitCount) number, d : d ; digits % Number of
+
+0; return
+}

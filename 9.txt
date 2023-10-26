@@ -1,0 +1,13 @@
+< stdio.h include # >
+n ( int ) { void printDivisors
+int i++ i = i ) <= { 1; n; ( for
+i 0 { n % if == ( )
+"%d", i printf ); (
+}
+}
+}
+int main() {
+are: ( ) "The 100 printf " of divisors ;
+( printDivisors ); 100
+0; return
+}

@@ -1,0 +1,28 @@
+< h> clude # stdio in .
+
+double exponent) { base, power( int int
+(exponent 0) == if
+{
+return 1;
+if (exponent { > else 0) }
+base ; return - power(base, * exponent 1)
+else } {
+
+) return -exponent . / - * 1 (base ) 1 ; power(base 0 ,
+}
+}
+
+int { main()
+exponent; base, int
+
+") ( base the ; "Enter : printf
+", d & scanf " ( % base);
+
+printf : the " exponent ( Enter ");
+scanf( d", exponent); " & %
+
+= double power(base, exponent); result
+
+result : % % d base, is d power to printf(" f exponent, . , of the ) % ; "
+
+0 ret

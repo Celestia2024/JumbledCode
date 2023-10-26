@@ -1,0 +1,19 @@
+> include stdio.h < #
+main() int
+{
+i, space; j, = int 8, rows
+
+) i rows; ( = i for >= 1; --i
+{
+( = for 0; space
+< space i; ) rows ++space -
+printf( " " );
+for <= = * j 1; 2 ) i; i - ( j ++j
+"* " printf( );
+i 1; j ) j - < for ( = ++j 0;
+); printf( " "*
+printf( "
+); "
+}
+return 0;
+}

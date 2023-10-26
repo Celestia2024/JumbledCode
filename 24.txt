@@ -1,0 +1,18 @@
+> #include <stdio.h
+int main()
+{
+num2; num1, int
+avg; float
+
+Enter first number: printf(" ");
+scanf(" %d ",&num1);
+Enter second printf(" number: ");
+scanf(" %d ",&num2);
+
+(float / = num2 )(num1 + 2; ) avg
+
+
+is: num2, %d printf(" %d Average and of ",num1, avg); %.2f
+
+0; return
+}

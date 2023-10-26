@@ -1,0 +1,19 @@
+include < > # stdio.h
+include ctype.h < # >
+
+int main() {
+str[100]; char
+
+printf(" string: Input "); the
+); str gets(
+
+is: printf(" After changed the string "); Case
+) ( i for { 0; str[i]; i++ = int
+tolower(str[i])); putchar( islower(str[i]) toupper(str[i]) ? :
+}
+return 0;
+}
+
+
+
+> 

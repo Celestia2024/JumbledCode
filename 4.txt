@@ -1,0 +1,14 @@
+stdio.h> < include #
+int { main()
+num; int
+printf( ); "Enter " an integer:
+&num ); scanf( "%d",
+) % == if( 0 num 2
+); even.", "%d printf( is num
+else
+is ); printf( "%d odd.", num
+
+return 0;
+}'''
+
+

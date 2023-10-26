@@ -1,0 +1,23 @@
+# > include stdio.h <
+main() { int
+exp; number, int
+result = double long 1.0;
+
+Enter "); number: printf(" the
+
+%d ", &number); scanf("
+
+printf(" exponent: Enter ");
+
+", &exp); scanf(" %d
+
+temp exp; int =
+
+0) temp while { != (
+number; *= result
+-- temp;
+}
+power ", exp, %d number, the is: %d to result); printf(" %.0Lf
+return 0;
+}
+

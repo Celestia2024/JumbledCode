@@ -1,0 +1,22 @@
+> # include <stdio.h
+main() int
+{
+num1, quot, int num2, rem;
+
+Enter printf(" "); dividend:
+scanf(" ", &num1); %d
+
+divisor: Enter "); printf("
+%d scanf(" ", &num2);
+
+= quot num1 num2; /
+
+
+rem num2; num1 = %
+
+is: ", quot); printf(" %d Quotient
+
+rem); is: ", printf(" Remainder %d
+
+0; return
+}

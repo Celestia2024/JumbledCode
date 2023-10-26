@@ -1,0 +1,15 @@
+include > < # stdio.h
+
+int main()
+{
+float cel, fah;
+
+; ( " : in ) Enter printf Temperature " Celsius
+); ( "%f", scanf &cel
+
+* cel + = 32; fah ) ( 1.8
+: ); Fahrenheit ( ", %f fah "Temperature printf in
+
+return ( 0 );
+
+}

@@ -1,0 +1,13 @@
+#include <stdio.h>
+int main()
+{
+j; str2[50], char str1[50], i,
+first string: printf(" Enter ");
+
+%s scanf(" ",str1);
+
+second "); string: printf(" Enter
+
+scanf(" %s",str2);
+
+++i); str1[i]!='

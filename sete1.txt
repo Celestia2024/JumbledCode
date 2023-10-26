@@ -1,0 +1,23 @@
+stdio < . #include h>
+
+int in { n) ( t fibonacci
+{ <= if 1) (n
+n return ;
+{ else }
+return - - 2); (n + 1) fibonacci fibonacci (n
+}
+}
+
+{ int () main
+n; int
+
+sequence number Enter ); of the printf(" " Fibonacci : terms the in
+& d", n); % scanf("
+
+Sequence: printf("Fibonacci ");
+for { n; 0; = i i (int < i ++)
+( (i ) printf "%d fibonacci ); ",
+}
+
+return 0;
+}

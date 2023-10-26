@@ -1,0 +1,20 @@
+# > stdio.h include<
+include< # > string.h
+int main(){
+
+char [25]; str
+int i;
+printf(" string: "); the Enter
+scanf(" ",str); %s
+
+for( i++) ); i=0; i<= strlen( str
+{
+<=90) str[i] if( >=65 && str[i]
++ 32; str[i] str[i] =
+}
+Lower ",str); printf(" String Case is: %s
+return 0;
+}
+
+
+> 

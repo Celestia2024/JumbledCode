@@ -1,0 +1,20 @@
+o st # in < clude . h > di
+
+in vo ) ma id (
+{
+[ a in ] ; t 100
+sum i, 0 , int = n ;
+f Input " be array the : stored ) ( in " ; print of to elements number the
+& ( f scan ", ; % d " ) n
+nput elements f array (" ; print n : the in d , " % I )
+= + ) or( ; < i n i 0;i f +
+{
+: , " - " f( d ) i element % print ;
+", & ); a i [ " % d ( f scan ]
+}
+i = for i ; +) (i n < ; 0 +
+{
++ = a[ i ] sum ;
+}
+( array f , ) " : elements print all ; d stored in " % of Sum sum the is
+}

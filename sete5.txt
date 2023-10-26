@@ -1,0 +1,29 @@
+<std clu > . io h in # de
+
+100 SIZE MAX_ #define
+
+[ ; ] MAX_SIZE stack int
+int - 1; = top
+
+void value) { push(int
+- MAX_SIZE { = if = ( 1) top
+printf Overflow Stack " ( " );
+; return
+}
+
++ value + ; = stack [ ] top
+}
+
+int main ( { )
+push ( 10) ;
+; push 2 ( 0)
+
+) Stack ; elements : " " printf(
+0 top ; i = i < for i (int + = ; +) {
+d ] [ stack % i ; ", ) printf( "
+}
+
+return ; 0
+}
+
+}

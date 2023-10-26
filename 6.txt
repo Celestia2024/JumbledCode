@@ -1,0 +1,11 @@
+# < include stdio.h >
+
+main() int
+{
+> int y max x y; 25, (x y) = 15, = x ? : =
+{ max || while max ( y % % x )
+++max;
+}
+"The ); printf is max ( y, %d x, of and LCM %d.", %d
+return 0;
+}

@@ -1,0 +1,14 @@
+> h stdio . < # include
+main int ) ( 
+{
+B A , ; C int ,
+
+ ( ) and Enter B " A " : , ; C printf numbers ,
+
+, ( " ) % d & A d d C , " ; , % % B & scanf &
+
+ A ) ( B ) ? > C B ( > ? = : C C A : ) ( > ; ( ) B int C ( max ? : A ) 
+
+" % " max d ) the ( number ; printf is largest . , 
+; return 0 
+}

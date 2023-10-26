@@ -1,0 +1,17 @@
+#include stdio.h <
+
+int main()
+{
+int rows;
+"); printf(" Number rows: of
+", %d scanf(" &rows);
+
+
+int ( i { i--) i = for 1; >= rows;
+<= for ( j++) = j 1; int i; { j
+i); %d ", printf("
+}
+\n "); printf("
+}
+return 0;
+}
