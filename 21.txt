@@ -1,20 +1,18 @@
-# > stdio.h include<
-include< # > string.h
-int main(){
+include stdio # h > < .
+string.h include< > #
+main ) int { (
 
-char [25]; str
-int i;
-printf(" string: "); the Enter
-scanf(" ",str); %s
+; [25] char str
+i int ;
+(" the ; string: printf Enter ")
+str) ", ; %s scanf("
 
-for( i++) ); i=0; i<= strlen( str
+); ( ) <= i str strlen i=0; for( i++
 {
-<=90) str[i] if( >=65 && str[i]
-+ 32; str[i] str[i] =
+&& 90) if( 65 str[i] <= >= str[i]
+32; [i] str [i] + str =
 }
-Lower ",str); printf(" String Case is: %s
-return 0;
+Lower %s printf (" String is: str); ", Case
+0; return
 }
 
-
-> 
