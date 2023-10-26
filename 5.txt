@@ -1,19 +1,25 @@
-> include stdio.h < #
-main() int
-{
-i, space; j, = int 8, rows
+<stdio.h> #include
 
-) i rows; ( = i for >= 1; --i
+int main()
 {
-( = for 0; space
-< space i; ) rows ++space -
-printf( " " );
-for <= = * j 1; 2 ) i; i - ( j ++j
-"* " printf( );
-i 1; j ) j - < for ( = ++j 0;
-); printf( " "*
-printf( "
-); "
+n, = m int 1;
+") Enter number the ; of printf(" rows
+" & scanf( ); " n , %d
+) = i > n; = i -- for(int i 1;
+{
+= j++) 1; 1; < for( j - int i = j
+{
+"); printf("
+}
+for( k = = 1; m; < k int k++)
+{
+|| k ) = 1 m = || = k m = = = if( n
+); " * printf("
+else
+); printf(" "
+}
+printf("\n");
+m + ; +
 }
 return 0;
 }
