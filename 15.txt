@@ -1,0 +1,20 @@
+include # h stdio. <
+
+int main()
+{
+num; long
+int count 0; =
+
+Enter "); any (" number: printf
+&num ld", scanf(" ); %
+
+do
+{
+count ++ ;
+= / 10; num
+0); ( } while != num
+
+printf(" digits: %d Total ", count);
+
+return 0;
+}

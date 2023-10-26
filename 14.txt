@@ -1,0 +1,16 @@
+# > stdio. h include <
+h < # > string. include
+main() void
+{
+=0; freq ctr=0, i, int
+e, spc; t, int h,
+char [100]; str
+printf (" : the Input "); string
+str gets( ; )
+strlen( ctr str ); =
+= <= i++) ctr i ; i 0 for( - 3;
+{
+'t' 'T' ( || == str [i] ); [i] str t= ==
+[i+1] || str h= 'H' 'h' str ( [i+1] == ); ==
+== e= == ); || ( [i+2] 'E' [i+2] 'e' str str
+|| '' str == str [i+3] [i+3] spc=( == '

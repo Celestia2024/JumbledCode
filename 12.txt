@@ -1,0 +1,28 @@
+> # include stdio.h <
+(char str countCharacters void ) []
+{
+0, = = = lowerCount int 0; upperCount 0, otherCount
+i++ ) 0; str != [i] = int for i ( '' ;
+{
+&& 'Z') ( str 'A' str[i] [i] if >= <=
+{
+; upperCount ++
+&& str[i] if 'a' ) ( >= str[i] <= 'z' } else
+{
+; lowerCount ++
+else } {
+otherCount ; ++
+}
+}
+printf(" %d \n", characters: Uppercase upperCount);
+\n", characters: printf("Lowercase lowerCount); %d
+\n", characters: otherCount); %d printf("Other
+}
+main() { int
+char [100]; inputString
+a printf(" string: "); Enter
+); inputString gets(
+countCharacters( inputString );
+0; return
+}
+

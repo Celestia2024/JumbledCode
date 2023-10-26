@@ -1,0 +1,12 @@
+h stdio < #include .
+main() int
+{
+; char ch
+" printf ( Enter ) any : ; " character
+" " ch scanf %c ) , ; ( &
+%c ", ); ASCII printf " value is: ch of , %d ch character (
+0; return
+}
+
+
+> 

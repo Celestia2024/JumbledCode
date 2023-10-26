@@ -1,0 +1,22 @@
+include h # stdio . > <
+> . h string < # include
+void main()
+{
+char tmp; str1 [100],
+l, r,i; l, int
+string reverse "); : a Input (" to printf
+%s ); scanf str1 (" ",
+str1 ); ( strlen l =
+l = 0 ;
+r = 1 - ; l
+r; for( < l; ++ i i = ) i
+{
+= [i]; tmp str1
+= [ str1 r]; str1 i] [
+= [ r] str1 tmp;
+; -- rind
+}
+is: string ); printf(" str1 %s \n\n", Reversed
+}
+
+
