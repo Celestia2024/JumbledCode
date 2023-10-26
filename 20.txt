@@ -1,16 +1,16 @@
-#include<stdio.h>
-#include<string.h>
-int main(){
+. > h # stdio include <
+. h string #include < >
+int main()
+{
+; str [25] char
+; int i
+" string: Enter ; ) ( printf the "
+str %s (" scanf ; ) ",
 
-   char str[25];
-   int i;
-   printf("Enter the string: ");
-   scanf("%s",str);
- 
-   for(i=0;i<=strlen(str);i++){
-      if(str[i]>=65&&str[i]<=90)
-         str[i]=str[i]+32;
-   }
-   printf("\nLower Case String is: %s",str);
-   return 0;
+; ); < { for( ( = strlen i str i ) = 0 i++
+&& if( ) 65 90 str str <= >= [i] [i]
+[i] str = str [i] 32; +
+}
+", %s is: \n printf (" Case str); String Lower
+0; return
 }
