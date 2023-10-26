@@ -1,13 +1,17 @@
-< stdio.h include # >
-n ( int ) { void printDivisors
-int i++ i = i ) <= { 1; n; ( for
-i 0 { n % if == ( )
-"%d", i printf ); (
+<stdio.h> #include
+{ void printDivisors(int n)
+i++) <= { 1; i = (int i n; for
+== % 0) i { (n if
+printf("%d ", i);
 }
 }
 }
-int main() {
-are: ( ) "The 100 printf " of divisors ;
-( printDivisors ); 100
+main() { int
+int num ;
+Number (" : ") ; Enter printf
+scanf( " &num %d ); ",
+divisors are: of ",num); %d printf("The
+printDivisors(num);
 0; return
 }
+
