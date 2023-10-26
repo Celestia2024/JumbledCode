@@ -1,23 +1,23 @@
-# > include stdio.h <
-main() { int
-exp; number, int
-result = double long 1.0;
+< stdio.h # include >
+{ int main()
+number, exp; int
+result double long 1.0; =
 
-Enter "); number: printf(" the
+"); (" Enter printf the number:
 
-%d ", &number); scanf("
+); %d ", (" scanf &number
 
-printf(" exponent: Enter ");
+exponent: "); (" printf Enter
 
-", &exp); scanf(" %d
+scanf ", %d (" &exp );
 
-temp exp; int =
+= temp exp; int
 
-0) temp while { != (
+temp ( 0) != { while
 number; *= result
--- temp;
+temp; --
 }
-power ", exp, %d number, the is: %d to result); printf(" %.0Lf
+", exp, the is: power to number, %d (" result ); printf %d %.0Lf
 return 0;
 }
 
