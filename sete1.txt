@@ -1,23 +1,23 @@
-. st h> dio #include <
+<stdio.h> #include
 
-n) int t { ( fibonacci in
-if { <= (n 1)
-; re n turn
-else { }
-urn 1) 2); (n - fibonac fibonacci (n - ret + ci
+( { ) int int fibonacci n
+1 ( n <= ) if {
+return n;
+{ } else
+( ( return 1) n n - fibonacci - + fibonacci 2);
 }
 }
 
-( { main int )
-n; int
+main() int {
+; int n
 
-the Fibonacci ); in sequence of the terms Enter " print f(" : number
-scanf(" % & n); d",
+in the number Fibonacci " printf Enter ( the "); sequence: of terms
+" %d scanf( ", &n );
 
-printf("Fibonacci quence: "); Se
-(int { < i i for = n; 0; ++) i
-fibonacci ) prin "%d (i tf ( ); ",
+Fibonacci " printf ); " Sequence: (
+< i = { n; (int ) i 0; i++ for
+", ) " ( ( %d i ); printf fibonacci
 }
 
-return 0;
+0; return
 }
