@@ -1,20 +1,21 @@
-o st # in < clude . h > di
+< # include stdio.h >
 
-in vo ) ma id (
+void main()
 {
-[ a in ] ; t 100
-sum i, 0 , int = n ;
-f Input " be array the : stored ) ( in " ; print of to elements number the
-& ( f scan ", ; % d " ) n
-nput elements f array (" ; print n : the in d , " % I )
-= + ) or( ; < i n i 0;i f +
+; int [100] a
+int n, i, sum=0;
+printf of be number ( Input stored the " elements the :"); in to array
+" scanf &n ); ", ( %d
+printf elements %d : ( Input the in array "
+",n);
+0 ) n ; ; = i i i ++ for ( <
 {
-: , " - " f( d ) i element % print ;
-", & ); a i [ " % d ( f scan ]
+%d ", printf(" i); - : element
+", [i] ); &a scanf(" %d
 }
-i = for i ; +) (i n < ; 0 +
+) 0 i i++ < for( = i n; ;
 {
-+ = a[ i ] sum ;
+sum a [i]; +=
 }
-( array f , ) " : elements print all ; d stored in " % of Sum sum the is
+is " sum); array : elements the of \n", in stored all printf Sum ( %d \n
 }
