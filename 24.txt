@@ -1,18 +1,21 @@
-> #include <stdio.h
+< > #include stdio.h
 int main()
 {
 num2; num1, int
-avg; float
+float avg;
 
-Enter first number: printf(" ");
-scanf(" %d ",&num1);
-Enter second printf(" number: ");
-scanf(" %d ",&num2);
+"); printf("Enter number: first
+scanf("%d",&num1);
+Enter number: printf(" second ");
+&num2 scanf(" ", %d );
 
-(float / = num2 )(num1 + 2; ) avg
+( = / ) )( + avg 2; float num1 num2
 
 
-is: num2, %d printf(" %d Average and of ",num1, avg); %.2f
+and is: of num1, ( printf num2, %d " avg); %.2f", %d Average
 
 0; return
 }
+
+
+> 
