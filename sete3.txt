@@ -1,22 +1,23 @@
-. < h> # std include io
+. io lude inc # std h> <
 
-a, int b) int lcm { (int
-0 % ) = = b if (a
-return a;
+int lcm a, b) int { (int
+if (a % b = = 0 )
+a; return
 else
-return a ; , + b) lcm ( a
+; , ( + lcm a b) a urn ret
 }
 
-{ ( ) int main
-, num2; int num 1
+{ ) main int (
+num , 1 int num2;
 
-; : print two f " ("Enter numbers )
-% (" ", d scanf d & ; num2 num1, & % )
+print ("Enter f ) ; two " : numbers
+& num1, d ) & d sca ; (" % ", % nf num2
 
-(num1 , n ? num2) um1); : (num1 ( int num2) result num2, = lcm lcm >
+, ? : int (num1 n ( num2) (num1 lcm > num2) result num2, um1); = lcm
 
-d is: of % "LCM % f( print % d d and
-" ); , num2 result , , num1
+% % d and is: % "LCM of f( d print d
+, num2 result ); num1 " , ,
 
-0; return
+return 0;
 }
+
