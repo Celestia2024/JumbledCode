@@ -1,26 +1,26 @@
-< #include stdio.h>
-#include < math.h>
+# > stdio.h include <
+< # math.h > include
 
-long decimalnum ) decimalToBinary( int
+decimalnum ) decimalToBinary long int (
 {
-binarynum 0; long =
-int = rem, temp 1;
+= binarynum 0; long
+1; int = rem , temp
 
-( != 0) decimalnum while
+while 0 ) decimalnum ( !=
 {
-decimalnum 2; rem = %
-= decimalnum 2; / decimalnum
-binarynum rem*temp; + = binarynum
-temp temp 10; = *
+% 2; rem decimalnum =
+= decimalnum decimalnum 2; /
+= binarynum rem*temp; + binarynum
+temp temp * 10; =
 }
 return binarynum;
 }
 
-int main()
+main() int
 {
-int decimalnum;
-Decimal a "); printf(" Number: Enter
-", %d ); scanf(" &decimalnum
-decimalnum)); is: %ld Equivalent Number printf(" decimalToBinary( ", Binary
+decimalnum ; int
+"); Number: Enter Decimal printf(" a
+% scanf(" ", d &decimalnum);
+", Equivalent is: Binary decimalToBinary( decimalnum %ld Number printf(" ));
 return 0;
 }
