@@ -1,19 +1,15 @@
-include < > # stdio.h
-include ctype.h < # >
+> include stdio.h # <
+ctype.h < > include #
 
-int main() {
-str[100]; char
+{ int ) main(
+[100] char ; str
 
-printf(" string: Input "); the
+; the " string: Input printf ) ( "
 ); str gets(
 
-is: printf(" After changed the string "); Case
-) ( i for { 0; str[i]; i++ = int
-tolower(str[i])); putchar( islower(str[i]) toupper(str[i]) ? :
+Case string ; printf " " ) is: the ( After changed
+( { for int str i++ 0; i [i] = ) ;
+: ; putchar( (str[i])) toupper (str[i]) ? islower(str[i]) tolower
 }
 return 0;
 }
-
-
-
-> 
