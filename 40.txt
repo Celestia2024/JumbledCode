@@ -1,15 +1,22 @@
-include > < # stdio.h
+> stdio.h < include #
 
-int main()
+
+n countMultiples int ) int (
 {
-float cel, fah;
 
-; ( " : in ) Enter printf Temperature " Celsius
-); ( "%f", scanf &cel
+i 1 (int ) i n; i ++ ; <= for = {
+% { ) if i 0 ( 3 ==
+printf %d " (
+" ) ; i ,
+}
+}
+}
 
-* cel + = 32; fah ) ( 1.8
-: ); Fahrenheit ( ", %f fah "Temperature printf in
+main() int
+{
+n ; 25 int =
 
-return ( 0 );
+countMultiples ) ( n ;
 
+0; return
 }
