@@ -1,9 +1,15 @@
-# in . h clu < > io d st de
-ma in ) nt ( i
-{
-h; c ar c h
-f act " r e char : print any ( ; Enter " )
-c", ch) ( & scanf ; "%
-% , ch, is: ch); ASCII character value (" f print of %d " c
-0 re ; tur n
+. < include stdio # h >
+{ main() int
+i, int j;
+char input, 'A'; = alphabet
+printf last the in Enter row: character you want uppercase to (" "); an print
+", scanf ); &input (" %c
+1 <= i 1 { + ) ; ( ( - ); input i = for ++i 'A'
+{ for j ) ( <= = i; 1; ++j j
+%c alphabet ", printf " ( );
+}
+++ alphabet ;
+; printf ) \n " " (
+}
+return 0;
 }
