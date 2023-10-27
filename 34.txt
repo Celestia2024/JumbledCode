@@ -3,15 +3,15 @@
 int main()
 {
 int rows;
-"); printf(" Number rows: of
-", %d scanf(" &rows);
+"); printf (" Number rows: of
+", %d scanf (" &rows ) ;
 
 
 int ( i { i--) i = for 1; >= rows;
 <= for ( j++) = j 1; int i; { j
-i); %d ", printf("
+i); %d ", printf ("
 }
-\n "); printf("
+\\n "); printf ("
 }
 return 0;
 }
