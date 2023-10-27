@@ -4,12 +4,10 @@ void main()
 {
 factorial=1 ; n, int i,
 clrscr();
-a number:"); Please printf(" enter
+a number:") ; Please printf ( " enter
 %d scanf(“ ”,&n);
 1; i <= i for( = n; i++ )
 factorial = factorial*i ;
-%d ", %d Factorial is: of factorial); n, printf("
-getch();
+%d ", %d Factorial is : of factorial) ; n, printf ( "
+getch() ;
 }
-
-> 
