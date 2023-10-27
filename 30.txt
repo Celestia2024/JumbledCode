@@ -3,19 +3,21 @@ include <stdio.h> #
 int c;
 int x, y;
 add(); int
-main() void
+main ( ) void
 {
-clrscr();
+clrscr ( );
 x 3; =
 = y 5;
-add();
-getch();
+add() ;
+getch() ;
 }
 
 add() int
 {
 c + = y x ;
-%d ", c); printf("
+%d ", c); printf ("
 
 return 0;
 }
+
+
