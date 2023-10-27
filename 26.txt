@@ -1,14 +1,13 @@
-< #include stdio.h>
+< stdio.h> # include
 
-#define chr_no 256
+define # chr_no 256
 
-int { main()
-char str[100] ;
-max = ch_fre[ chr_no] int {0} , = 0;
+main () int {
+; char [100] str
+= ch_fre[ 0; , {0} max chr_no] = int
 
 
-string: Input the printf(" ");
-str gets( );
+the Input string: "); printf("
+str ); gets(
 
-i for { str[i]; = 0; ( ) int i++
-'
+0; for = str[i]; int ) ( i { i++
