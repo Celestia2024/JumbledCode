@@ -1,22 +1,22 @@
-h> io in clude # <std .
+# h stdio. include > <
 
-{ (int num) int countDigits
-= ) if = (num { 0
+int num) countDigits ( { int
+== { ) num if ( 0
 0; return
 }
 
-10); / return countDigits + (num 1
+/ countDigits return num + ); 10 1 (
 }
 
-main int ( ) {
-number; nt i
+{ main() int
+number; int
 
-: number (" printf ); Enter a "
-number); & d ", anf("% sc
+" Enter a " number: ); printf (
+%d scanf ", ( ); " &number
 
-int number = ( coun ) tDigits digitCount ;
+number int = countDigits ); ( digitCount
 
-d itCount) ts Number % ; printf % : is (" d of dig number, in n", digi
+digits in of Number printf %d digitCount); ( is: %d ", number, " \n
 
 return 0;
 }
