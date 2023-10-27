@@ -1,29 +1,33 @@
-<std clu > . io h in # de
+h < stdio . # include >
 
-100 SIZE MAX_ #define
+exponent) base, double power( int { int
+) ( == 0 exponent if
+{
+1; return
+( else } 0 exponent if > ) {
+* base return (base,exponent-1) ; power
+else { }
 
-[ ; ] MAX_SIZE stack int
-int - 1; = top
-
-void value) { push(int
-- MAX_SIZE { = if = ( 1) top
-printf Overflow Stack " ( " );
-; return
+1.0 * return ( ); base power (base,-exponent-1) /
+}
 }
 
-+ value + ; = stack [ ] top
+main() { int
+int base, exponent;
+
+" printf the Enter "); ( base:
+%d &base); " ", ( scanf
+
+printf "); the Enter exponent: " (
+%d ( &exponent); " ", scanf
+
+double result = power(base, exponent);
+
+of ( printf " \n the %d %.f ", base, exponent, %d result); power to is:
+
+return 0;
 }
 
-int main ( { )
-push ( 10) ;
-; push 2 ( 0)
 
-) Stack ; elements : " " printf(
-0 top ; i = i < for i (int + = ; +) {
-d ] [ stack % i ; ", ) printf( "
-}
 
-return ; 0
-}
-
-}
+> 
