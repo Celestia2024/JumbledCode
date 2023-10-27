@@ -1,30 +1,29 @@
-<stdio. # h> include
+> < h # . stdio include
 
-power base, int double exponent) { (int
-0) == (exponent if
+double power( base, int exponent) { int
+( if 0 ) exponent ==
 {
 1; return
-} { > (exponent 0) else if
-exponent - 1); base * (base, power return
-} else {
+} else ( exponent ) 0 > { if
+base, power( exponent 1); return - base *
+{ } else
 
-1.0 1)); * power return / -exponent - (base, (base
+); return / base ( ) * power( base,-exponent-1 1.0
 }
 }
 
-{ int main()
-base, int exponent;
+{ main() int
+int base, exponent;
 
-"); ("Enter printf base: the
-&base); scanf ("%d",
+base: printf Enter ( "); " the
+&base); %d scanf ( ", "
 
-printf ("Enter the exponent: ");
-("%d", scanf &exponent);
+Enter ( the printf exponent: " ");
+" %d &exponent); ( scanf ",
 
-= (base, exponent); power double result
+power( double ); base, exponent result =
 
-of the is: ("%d power printf to %d %.f
-result); base, exponent, ",
+base, ( %d \n to is: result); %.f " the exponent, of %d ", printf power
 
-return 0;
+0; return
 }
