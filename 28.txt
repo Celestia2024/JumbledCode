@@ -1,27 +1,26 @@
-< # include > stdio.h
+# include > < stdio.h
 
-int int ) checkEven( num
+int num ) checkEven( int
 {
-% == ( ) 2 num 0 if
+% num == ( 0 2 ) if
 return 1;
 else
 return 0;
 }
 
-int main()
+main() int
 {
-n; i, int
+i, n; int
 
-printf(" N: the value "); Enter of
-scanf(" &n); %d ",
+( " of Enter printf "); N: value the
+%d (" scanf &n); ",
 
-1; i ) ( { i n; = for i++ <=
-i) if ( checkEven( )
-[Even -", i); ] printf(" %d
+) { = ( n; i i i++ 1; for <=
+( i) ) if checkEven(
+(" i); -", ] [Even %d printf
 else
-] i); - printf("%d [Odd ",
+] ("%d i); ", printf - [Odd
 }
 
 return 0;
 }
-
