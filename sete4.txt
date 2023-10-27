@@ -1,29 +1,29 @@
-> < h # . stdio include
+> . < h stdio include #
 
-double power( base, int exponent) { int
-( if 0 ) exponent ==
-{
-1; return
-} else ( exponent ) 0 > { if
-base, power( exponent 1); return - base *
-{ } else
 
-); return / base ( ) * power( base,-exponent-1 1.0
+MAX_SIZE define # 100
+
+stack int MAX_SIZE ]; [
+-1; top int =
+
+int void ( value push { )
+MAX_SIZE - 1) if top == { (
+\n Stack "); " printf ( Overflow
+return;
 }
+
+[ ++top] value; = stack
 }
 
-{ main() int
-int base, exponent;
+int { main()
+; (10 ) push
+) push ( 20 ;
 
-base: printf Enter ( "); " the
-&base); %d scanf ( ", "
-
-Enter ( the printf exponent: " ");
-" %d &exponent); ( scanf ",
-
-power( double ); base, exponent result =
-
-base, ( %d \n to is: result); %.f " the exponent, of %d ", printf power
+printf " elements: Stack ( ");
+i = { for <= ( 0; i i++ int ) top;
+" printf ", ); ( [i] %d stack
+}
 
 0; return
 }
+
