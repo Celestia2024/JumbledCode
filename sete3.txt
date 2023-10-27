@@ -1,23 +1,22 @@
-. io lude inc # std h> <
+include # < > h stdio .
 
-int lcm a, b) int { (int
-if (a % b = = 0 )
+{ lcm int ( b) int a, int
+b if ( % a 0) ==
 a; return
 else
-; , ( + lcm a b) a urn ret
+b ); ( , a a return + lcm
 }
 
-{ ) main int (
-num , 1 int num2;
+int main() {
+int num1, num2;
 
-print ("Enter f ) ; two " : numbers
-& num1, d ) & d sca ; (" % ", % nf num2
+" two "); Enter printf ( numbers:
+%d ", scanf(" &num1, %d &num2);
 
-, ? : int (num1 n ( num2) (num1 lcm > num2) result num2, um1); = lcm
+( result = ) ) num1, num2 num2 : > int num2, lcm( num1 num1 ); ? lcm(
 
-% % d and is: % "LCM of f( d print d
-, num2 result ); num1 " , ,
+of \n", %d %d num2, num1, ( result); printf and " is: LCM %d
 
-return 0;
+0; return
 }
 
