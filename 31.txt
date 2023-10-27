@@ -1,17 +1,19 @@
-< include # stdio.h >
-< # conio.h > include
-math.h < # > include
-() main void
+stdio.h < #include >
+int main()
 {
-a, b; x, y, float
-clrscr ; ()
-printf (" enter ") ; x=
-scanf(" %f", &x);
-y= ”); enter (“ printf
-scanf(“ %f &y); ”,
-x+y / ) ( x-y ( a ); =
-= ); x-y * ) ( b ( x+y
-= %f / printf (x-y) (“ “, (x+y) a);
-“, (“ (x-y)= (x+y) printf b); * %f
-getch( ; )
+= 0; 0,y int = x
+= int unsigned 0; squareSide
+Square "); Side of printf("Enter = a
+", & (" %u scanf squareSide);
+loop //outer
+0 ; (x for ; = x< ) squareSide ++x
+{
+loop //inner
+; 0 for(y y< = ; squareSide ++y)
+{
+printf * "); ("
+}
+"\n"); printf (
+}
+0; return
 }
