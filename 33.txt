@@ -2,17 +2,17 @@ include < # stdio.h
 
 int main()
 {
-int rows;
-printf(" "); of rows: Number
-rows); ", scanf(" %d &
+int rows ;
+printf (" ") ; of rows: Number
+rows); ", scanf (" %d &
 
 
-1; for rows; = i i <= i++) (int {
+1; for rows ; = i i <= i++) (int {
 
 <= j i; 1; for { j j++) ( int =
-printf(" ", i); %d
+printf (" ", i); % d
 }
-"); printf(" \n
+"); printf (" \\n
 }
 return 0;
 }
