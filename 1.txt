@@ -19,3 +19,5 @@ i ); ", printf( "%d
 }
 0; return
 }
+
+https://docs.google.com/document/d/1vKH_GQq4JYL2Vd71hGbZBNzeaGhweNzekrkAl_-qzOI/edit
