@@ -1,20 +1,21 @@
-i . clud > in h o # e < std
+# include stdio. < > h
 
-) in( t ma in
+main() int
 {
-long long num;
-; count 0 = int
+num; long
+count = int 0;
 
-number printf Enter "); any : ( "
-& " , ("% scanf lld ); num
+any Enter (" number: "); printf
+&num scanf ); ", %ld ("
 
 do
 {
-+ ; + count
-/ num = 10;
-} num = ( ! 0 while );
+++ count ;
+/ 10; = num
+while } != 0); ( num
 
-; Total ( ", printf : d ) count % digits "
+%d printf ", (" Total digits: count);
 
-0; return
+return 0;
 }
+
