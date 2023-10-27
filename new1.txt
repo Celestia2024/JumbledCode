@@ -1,59 +1,59 @@
-( num){ int isHappyNumber int
-, = 0; sum int = rem 0
+isHappyNumber ( ){ int int num
+= 0; int 0 , = rem sum
 
 
-> 0){ num while(
-%10; rem num =
-(rem*rem); = + sum sum
-num /10; = num
+> num 0){ ( while
+rem num %10; =
+sum = + sum (rem*rem);
+num /10; num =
 }
 sum; return
 }
 
-() main int
+int main ()
 {
-82; num int =
-int result num; =
+= int 82; num
+= num; result int
 
-result = = ! 4){ (result && 1 ! while
-result); ( result isHappyNumber =
+result 1 result = ( ! while ! = { && 4)
+( isHappyNumber result); result =
 }
 
 
-= 1) result if = (
-printf( is num); % " d a happy number",
+1) = ( = if result
+number", num " happy d printf( is % a );
 
-= (result 4) else if =
-happ " ( " is print , %d num); a f number not y
+= (result else = 4) if
+print %d ); , a " not " ( f is number happ num y
+
+return 0;
+}int num){ ( isHappyNumber int
+0; 0 = = , int rem sum
+
+
+0){ while( > num
+= rem num %10;
+sum rem*rem); sum ( + =
+num /10; num =
+}
+sum; return
+}
+
+int main ()
+{
+num = int 82;
+res = num; int ult
+
+(result = = 1 ! 4){ && while ! result
+= ; ( ) result isHappyNumber result
+}
+
+
+result = 1 = ( if )
+" num); is d happy % a number", printf(
+
+(result 4) = else if =
+, " num ); not ( number f %d " is print a y happ
 
 0; return
-}int isHappyNumber ( int num){    
-    int rem  =  0 ,  sum  = 0;    
-        
-       
-    while( num > 0){    
-        rem = num %10;    
-        sum = sum  + (rem*rem);    
-        num = num /10;    
-    }    
-    return  sum;    
-}    
-        
-int main ()    
-{    
-    int num  =  82;    
-    int result  =  num;    
-        
-    while (result ! = 1  && result ! =  4){    
-        result = isHappyNumber ( result);    
-    }    
-        
-       
-    if ( result = =  1)    
-        printf( " % d is a happy  number", num);    
-    
-    else  if (result  = =  4)    
-        print f ( " %d  is not a happ y number " ,  num);     
-     
-    return  0;    
-} 
+}
